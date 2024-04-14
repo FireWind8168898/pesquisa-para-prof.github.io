@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <style>
+        h1{
+            background-color: gold;
+            padding: 10px;
+        }
+    </style>
+<div>
+<h1 style="color: black;"> ANTIRRACISMO</h1>
+</div>
+<div> <img src="racismo.jpg" width="600" height="300">
+    <h2 style="color: black;">OQUE E O ANTIRRACISMO</h1>
+        <p>O antirracismo é uma postura fundamental na luta contra a discriminação racial. Aqui estão alguns princípios-chave:</p>
+        <P>1. Definição de antirracismo: Ser antirracista significa se opor ativamente ao racismo. É advogar por uma sociedade justa e igualitária, independentemente da raça ou etnia das pessoas. Os antirracistas se opõem a qualquer forma de discriminação racial e segregação</P>
+        <p>2. Racismo estrutural: O racismo estrutural é um sistema de desigualdade que favorece as pessoas brancas e discrimina as pessoas negras. Ele se manifesta em desigualdades de oportunidades, discriminação no trabalho e violência policial. No Brasil, o racismo estrutural tem raízes profundas na história da escravidão</p>
+        <p>3. Escravidão: A escravização dos africanos deixou marcas estruturais em todo o mundo. Apesar da abolição da escravidão em 1888, as consequências persistem. Grupos de resistência lutam contra a violência e a opressão</p>
+        <p>4. Educação antirracista: Implica ensinar sobre as relações raciais e promover a consciência crítica sobre o racismo em nossa sociedade. Não se trata de individualizar a questão, mas de compreender como o racismo está enraizado em nossa estrutura social</p>
+        <p>5. Reconhecimento de privilégios: O antirracismo implica desafiar a norma e trabalhar ativamente contra o racismo. É um processo de ação e oposição deliberada ao sistema racista</p>
+    <h2 style="color: black;">PRINCÍPIOS DO ANTI RASCIMO</h2>  
+        <p>1. Definição de antirracismo: Ser antirracista significa se opor ativamente ao racismo. É advogar por uma sociedade mais justa e igualitária, independentemente da raça ou etnia das pessoas. Os antirracistas se opõem a qualquer forma de discriminação racial e segregação </p>
+        <p>2. Racismo estrutural: O racismo estrutural é um sistema de desigualdade que privilegia pessoas brancas e discrimina pessoas negras. Ele se manifesta de diversas formas, como na desigualdade de oportunidades, na discriminação no mercado de trabalho e na violência policial. No Brasil, o racismo estrutural tem raízes profundas na história da escravidão</p>
+        <P>3. Escravidão: A escravização dos africanos deixou marcas estruturais em todo o mundo. Apesar da abolição da escravidão em 1888, as consequências persistem. Grupos de resistência lutam contra a violência e a opressão</P>
+        <p>4. Educação antirracista: Implica ensinar sobre as relações raciais e promover a consciência crítica sobre o racismo em nossa sociedade. Não se trata de individualizar a questão, mas de compreender como o racismo está enraizado em nossa estrutura social</p>
+        <p>5. Reconhecimento de privilégios: O antirracismo implica desafiar a norma e trabalhar ativamente contra o racismo. É um processo de ação e oposição deliberada ao sistema racista</p>
+    <h2 style="color: black;">CONCEITO DO ANTIRRACISMO</h2>
+        <p>1. Definição de antirracismo: Ser antirracista significa se opor ativamente ao racismo. É advogar por uma sociedade mais justa e igualitária, independentemente da raça ou etnia das pessoas. Os antirracistas se opõem a qualquer forma de discriminação racial e segregação. </p>
+        <p>2. Racismo estrutural: O racismo estrutural é um sistema de desigualdade que privilegia pessoas brancas e discrimina pessoas negras. Ele se manifesta de diversas formas, como na desigualdade de oportunidades, na discriminação no mercado de trabalho e na violência policial. No Brasil, o racismo estrutural tem raízes profundas na história da escravidão.</p>
+        <p>3. Escravidão: A escravização dos africanos deixou marcas estruturais em todo o mundo. Apesar da abolição da escravidão em 1888, as consequências persistem. Grupos de resistência lutam contra a violência e a opressão.</p>
+        <p>4. Educação antirracista: Implica ensinar sobre as relações raciais e promover a consciência crítica sobre o racismo em nossa sociedade. Não se trata de individualizar a questão, mas de compreender como o racismo está enraizado em nossa estrutura social.</p>
+        <p>5. Reconhecimento de privilégios: O antirracismo implica desafiar a norma e trabalhar ativamente contra o racismo. É um processo de ação e oposição deliberada ao sistema racista.</p>
+  </div>
+ <diV>
+    <style>
+        h3{
+            background-color: cyan;
+            padding: 10px;
+        }
+    </style>
+ </diV>
+<div>
+    <h3 style="color: black;"> ALLUNO: ALLYSON BARBOZA NUNES TURMA: 1001 INOVADOR</h3>
+</div>  
+</body>
+</html>
